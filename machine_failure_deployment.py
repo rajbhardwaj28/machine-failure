@@ -32,7 +32,7 @@ df = pd.DataFrame({
     "tempMode": [tempMode],
     "AQ": [AQ],
     "USS": [USS],
-    "cs": [cs],
+    "CS": [CS],
     "VOC": [VOC],
     "RP": [RP],
     "IP": [IP],
